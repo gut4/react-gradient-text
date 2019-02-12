@@ -1,5 +1,6 @@
 {
   "name": "react-gradient-text",
+  "version: "0.2",
   "description": "Give your text an animated gradient effect using React.",
   "main": "build/index.js",
   "scripts": {
@@ -31,6 +32,10 @@
   "homepage": "http://arlando.github.io/react-gradient-text#readme",
   "author": "Arlando Battle (https://github.com/arlando)",
   "license": "MIT",
+  "dependencies": {
+    "react": "^16.8.1",
+    "prop-types: "^15.7.1"
+  },
   "devDependencies": {
     "@babel/core": "7.2.2",
     "@babel/plugin-proposal-class-properties": "7.2.3",
